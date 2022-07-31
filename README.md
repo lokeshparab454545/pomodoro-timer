@@ -16,4 +16,7 @@ The Pomodoro Technique is created by Francesco Cirillo for a more productive way
 
 5) Take a long break for 15 minutes after 2nd set.
 
+## Output
 
+
+![Untitled design](https://user-images.githubusercontent.com/98585144/182011648-7654c5c8-8f1d-4146-b82c-570d5bda5c90.png)
